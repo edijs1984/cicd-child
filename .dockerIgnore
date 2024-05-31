@@ -1,0 +1,42 @@
+# Node.js
+node_modules
+npm-debug.log
+npm-debug.log.*
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! syscall spawn
+
+# NestJS
+dist
+
+# Git
+.git
+.gitignore
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Continuous integration
+.gitlab-ci.yml
+.circleci
+
+# Operating system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editors
+.vscode
+.idea
+*.sublime-workspace
+*.sublime-project
+
+# Logs
+logs
+*.log
+*.out
